@@ -1,0 +1,2 @@
+# github.com/go-cryptoexchange/go-yobit v0.0.0-20170920172201-c58d8c7d93bf
+github.com/go-cryptoexchange/go-yobit
